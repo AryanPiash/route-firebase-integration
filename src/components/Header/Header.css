@@ -1,0 +1,10 @@
+.header{
+    margin-top: 20px;
+    text-align: center;
+}
+.header a{
+    text-decoration: none;
+    margin-right: 15px;
+    color: navy;
+    font-size: 20px;
+}
